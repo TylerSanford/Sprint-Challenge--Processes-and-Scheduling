@@ -15,7 +15,10 @@ Add your answers to the Answers.md doc.
 	c. P1: 32,001 - 64,000;
 	   P2: 0 - 32,000
 
+	Answer: B, because each of the two processes would use the memory in both spots.
+
 2. List all of the possible states a process may be in at any point in time. Briefly explain what each of these states mean.
+	Answer: 
 
 3. On your machine, how much faster does a `printf` call take compared to how long a `write` system call takes?
 
